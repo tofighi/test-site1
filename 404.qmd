@@ -15,5 +15,5 @@ All that's left to do is to head on over to the [ForBlog](forblog/index.qmd), pl
 
 <!-- Make the font size of the ghost larger -->
 :::{.animate__animated .animate__jackInTheBox .animate__delay-5s .animate__faster}
-# 👻
+#  👻
 :::
