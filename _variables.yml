@@ -1,0 +1,16 @@
+site_version: 2.2.1.2
+
+contact:
+  email: "[salmanaqvi+forblog@icloud.com](mailto:salmanaqvi+forblog@icloud.com)"
+
+links:
+  twitter: https://twitter.com/ForBo7_
+  github: https://github.com/tofighi
+  artstation: https://www.artstation.com/forbo7
+  kaggle: https://www.kaggle.com/forbo7
+  fastai:  https://forums.fast.ai/u/forbo7/summary
+
+licenses:
+  forblog: "[ForBlog](https://tofighi.github.io/test-site/forblog.html) © 2023 by [Salman Naqvi](https://tofighi.github.io/test-site/about.html) is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1)"
+  app_playground: "[App Playground](https://tofighi.github.io/test-site/web_apps.html) © 2023 by [Salman Naqvi](https://tofighi.github.io/test-site/about.html) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)"
+  ForFolio: "ForFolio © 2023 by [Salman Naqvi](https://tofighi.github.io/test-site/about.html)"

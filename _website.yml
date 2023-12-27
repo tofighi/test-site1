@@ -1,0 +1,74 @@
+# TODO: Add date format.
+# TODO: Separate this file into further yaml files?
+website:
+  title: "Ghassem"
+  site-url: https://tofighi.github.io/test-site
+  description: "The world of ForBo7!"
+  favicon: favicon.ico
+#  favicon: cover.png
+  image: images/profile.png
+  back-to-top-navigation: true
+  navbar:
+    # Currently have set pinned to true because it isn't smooth.
+#    logo: cover.png
+    pinned: True
+    left:
+      - icon: house-door
+        text: Home
+        href: index.qmd
+      - icon: newspaper
+        text: ForBlog
+        href: forblog/index.qmd
+      - icon: sliders2
+        text: Playground
+        href: web_apps/index.qmd
+      - icon: book
+        text: Dictionary
+        href: dictionary/index.qmd
+      - icon: file-person
+        text: About
+        href: about.qmd
+    tools:
+      - icon: code-slash
+        href: https://github.com/ForBo7/forbo7.github.io
+      - icon: rss
+        href: forblog/index.xml
+  page-footer:
+    left: "[ForBo7 // Salman Naqvi](https://tofighi.github.io/test-site/) © 2023 and ForBlog™ by [Salman Naqvi](https://tofighi.github.io/test-site/about.html)"
+    center:
+      - icon: file-post-fill
+        href: https://forums.fast.ai/u/forbo7/summary
+      - icon: twitter
+        href: https://twitter.com/ForBo7_
+      - icon: brush
+        href: https://www.artstation.com/forbo7
+      - icon: clipboard-data
+        href: https://www.kaggle.com/forbo7
+      - icon: github
+        href: https://github.com/ForBo7
+      - icon: envelope
+        href: mailto:salmananaqvii+forblog@gmail.com
+      - icon: rss
+        href: forblog/index.xml
+    right: "[Site Version 2.2.1.2](https://tofighi.github.io/test-site/patch_notes.html) | [Site Feedback](https://tofighi.github.io/test-site/feedback.html) | Website made by me!"
+  twitter-card:
+    title: "ForBo7 // Salman Naqvi"
+    description: "The world of ForBo7!"
+    image: cover.png
+    card-style: summary_large_image
+    creator: "@ForBo7"
+    site: "@ForBo7"
+  open-graph:
+    description: "The world of ForBo7!"
+    image: cover.png
+  comments:
+    giscus:
+      repo: ForBo7/tofighi.github.io/test-site
+      repo-id: R_kgDOICXnAA
+      category: Giscus Comments
+      category-id: DIC_kwDOICXnAM4CR8YX
+      mapping: title
+      reactions-enabled: true
+      loading: lazy
+      input-position: top
+      theme: light
